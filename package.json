@@ -1,0 +1,11 @@
+{
+  "name": "node-reverse-proxy",
+  "version": "0.0.1",
+  "description": "testing using node on port 80 on a mac for local development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Meldrum",
+  "license": "MIT"
+}
